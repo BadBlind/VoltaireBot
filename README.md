@@ -6,6 +6,7 @@
 **Comment utiliser le Bot**
 - Utiliser [Chrome](https://www.google.fr/chrome/browser/desktop/index.html)
 - Installer [Tampermonkey](https://tampermonkey.net/)
+- Installer le Bot : TamperMonkey > Utilitaires > Zip > Importer : Il y a deux scripts à importer (tous dans la même archive)
 - Verifier que le Bot est bien activé (Voir dans l'extension)
 - **Normalement, il est up**
 - **Ce n'est pas un vrai Bot qui ira faire tout a votre place !!!** : Il vous indique juste les erreurs dans le bas de la page : a vous de cliquer
