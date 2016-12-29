@@ -8,3 +8,5 @@
 - Installer [Tampermonkey](https://tampermonkey.net/)
 - Verifier que le Bot est bien activé (Voir dans l'extension)
 - **Normalement, il est up**
+- **Ce n'est pas un vrai Bot qui ira faire tout a votre place !!!** : Il vous indique juste les erreurs dans le bas de la page : a vous de cliquer
+- **Je ne suis en aucun cas responçable de votre mauvaise note et je déconseille a tous d'utiliser ce Bot : il est juste là pour voir comment ça fonctionne et à titre purement informatif**
